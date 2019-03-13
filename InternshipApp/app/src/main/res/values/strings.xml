@@ -1,0 +1,409 @@
+<resources>
+    <string name="app_name">ACSCE STUDENT</string>
+
+
+    //activity_login
+    <string name="new_register_here">New Register Here</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    //activity_profile
+    <string name="profile">User Profile</string>
+    <string name="user_email">User Email Addree</string>
+    <string name="user_name">User Name</string>
+
+    //activity_register
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="plz_selete_image">Please Select Image</string>
+
+    //activity_about
+    <string name="welcome_about">Welcome to About Activity</string>
+    <string name="app_version">Version 2.0</string>
+    <string name="info1">App is Developed to help students and faculties of VTU is accessing below useful information at their fingertips.</string>
+    <string name="info2">•TimeTable\n
+						•Syllabus\n
+						•Faculty Information\n
+						•VTU Results\n
+						•ACS College of Engineering Website\n
+						•NPTEL Online Courses \n
+						•SWAYAM Free Online Education\n
+						•And much more </string>
+    <string name="info3">Thanks to All your support</string>
+
+    //activity_developer
+    <string name="welcome_developer">Welcome to Developer Activity</string>
+    <string name="developer_name">Mr.Lingraj G. Naykode</string>
+    <string name="acsce">ACS College of Engineering,Bangalore-74</string>
+    <string name="college_name">College Name</string>
+    <string name="branch">Branch And Year</string>
+    <string name="branch_name">Computer Science And Engineering\nFinal Year</string>
+
+
+    //menu bar
+    <string name="about">About</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="developer">Developer</string>
+
+
+    //activity_faculty_details
+    <string name="faculty_name">Faculty Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="number">8668363143</string>
+    <string name="email_address">Email Address</string>
+    <string name="email">naykodelingraj@gmail.com</string>
+    <string name="subject">Subject</string>
+    <string name="subject_ex">IoT</string>
+
+    //activity_week_single_item
+    <string name="days">Days</string>
+
+    //day_detail_single_item
+    //subject_single_item
+    <string name="subjects">Subjects</string>
+    <string name="time">Time</string>
+
+
+    //faculty_single_item
+    <string name="faculty">Faculty</string>
+
+    //main_activity_single_item
+    <string name="timetable">Timetable</string>
+    <string name="description">Description</string>
+    <string name="click_here">Click to know more</string>
+
+    //subject_details_single_item
+    <string name="title">Title</string>
+    <string name="syllabus">Syllabus</string>
+
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> VTU Results </item>
+        <item> ACS College </item>
+        <item> NPTEL </item>
+        <item> SWAYAM </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Display TimeTable </item>
+        <item> Subject And Syllabus </item>
+        <item> Teacher Information</item>
+        <item> Check Results </item>
+        <item> ACS College Website </item>
+        <item> Online Courses</item>
+        <item> Free Online Education</item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>IoT and Applications</item>
+        <item>Big Data Analytics</item>
+        <item>TEA BREAK</item>
+        <item>User Interface Design</item>
+        <item>IoT and Applications</item>
+        <item>LUNCH BREAK</item>
+        <item>SEMINAR</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>Big Data Analytics</item>
+        <item>IoT and Applications</item>
+        <item>TEA BREAK</item>
+        <item>User Interface Design</item>
+        <item>Big Data Analytics</item>
+        <item>LUNCH BREAK</item>
+        <item>SEMINAR</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>User Interface Design</item>
+        <item>Big Data Analytics</item>
+        <item>TEA BREAK</item>
+        <item>User Interface Design</item>
+        <item>IoT and Applications</item>
+        <item>LUNCH BREAK</item>
+        <item>PROJECT</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>PROJECT</item>
+        <item>TEA BREAK</item>
+        <item>PROJECT</item>
+        <item>LUNCH BREAK</item>
+        <item>PROJECT</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>PROJECT</item>
+        <item>TEA BREAK</item>
+        <item>PROJECT</item>
+        <item>LUNCH BREAK</item>
+        <item>PROJECT</item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>PROJECT</item>
+        <item>PROJECT</item>
+        <item>PROJECT</item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>8:30AM - 9:30AM</item>
+        <item>9:30AM - 10:30AM</item>
+        <item>10:30AM - 10:45AM</item>
+        <item>10:45AM - 11:45AM</item>
+        <item>11:45AM - 12:45PM</item>
+        <item>12:45PM - 1:30PM</item>
+        <item>1:30PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>8:30AM - 9:30AM</item>
+        <item>9:30AM - 10:30AM</item>
+        <item>10:30AM - 10:45AM</item>
+        <item>10:45AM - 11:45AM</item>
+        <item>11:45AM - 12:45PM</item>
+        <item>12:45PM - 1:30PM</item>
+        <item>1:30PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>8:30AM - 9:30AM</item>
+        <item>9:30AM - 10:30AM</item>
+        <item>10:30AM - 10:45AM</item>
+        <item>10:45AM - 11:45AM</item>
+        <item>11:45AM - 12:45PM</item>
+        <item>12:45PM - 1:30PM</item>
+        <item>1:30PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>8:30AM - 10:30AM</item>
+        <item>10:30AM - 10:45AM</item>
+        <item>10:45AM - 12:45PM</item>
+        <item>12:45PM - 1:30PM</item>
+        <item>1:30PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>8:30AM - 10:30AM</item>
+        <item>10:30AM - 10:45AM</item>
+        <item>10:45AM - 12:45PM</item>
+        <item>12:45PM - 1:30PM</item>
+        <item>1:30PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time6">
+        <item>8:30AM - 10:45AM</item>
+        <item>10:45AM - 1:30PM</item>
+        <item>1:30PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="faculty_name">
+        <item>Dr.V Mareeswari</item>
+        <item>Mrs.Sunita Chalageri</item>
+        <item>Mrs.Kavya G</item>
+        <item>Mrs.Jyoti Metan</item>
+        <item>Mr.Krishna Kumar A</item>
+        <item>Dr.T.Senthil Kumaran</item>
+    </string-array>
+
+    <string-array name="Faculty1">
+        <item>9845198389</item>
+        <item>mareesh.prasanna@gmail.com</item>
+        <item>Internet of Things and Applications</item>
+    </string-array>
+
+    <string-array name="Faculty2">
+        <item>9916099905</item>
+        <item>sunita.chalageri@gmail.com</item>
+        <item>Big Data Analytics</item>
+    </string-array>
+    <string-array name="Faculty3">
+        <item>9620961764</item>
+        <item>itskavyag@gmail.com</item>
+        <item>User Interface Design</item>
+    </string-array>
+    <string-array name="Faculty4">
+        <item>9901499699</item>
+        <item>jyotimetan@gmail.com</item>
+        <item>Internship / Professional Practice</item>
+    </string-array>
+    <string-array name="Faculty5">
+        <item>9739935544</item>
+        <item>krishnakumar3489@gmail.com</item>
+        <item>Project work phase II</item>
+    </string-array>
+
+    <string-array name="Faculty6">
+        <item>8884000900</item>
+        <item>senthilvts@gmail.com</item>
+        <item>Seminar</item>
+    </string-array>
+
+
+    <string-array name="Subjects">
+        <item>Internet of Things and Applications</item>
+        <item>Big Data Analytics</item>
+        <item>User Interface Design</item>
+        <item>Internship / Professional Practice</item>
+        <item>Project work phase II</item>
+        <item>Seminar</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>SEMESTER – VIII</item>
+        <item>Course Objectives</item>
+        <item>Module - 1</item>
+        <item>Module - 2</item>
+        <item>Module - 3</item>
+        <item>Module - 4</item>
+        <item>Module - 5</item>
+        <item>Course Outcomes</item>
+        <item>Question paper pattern</item>
+        <item>Text Books</item>
+        <item>Reference Books</item>
+    </string-array>
+
+    <string-array name="iot">
+        <item>\tINTERNET OF THINGS AND APPLICATIONS\t\t\n[Choice Based Credit System (CBCS) scheme]\n\nSubject Code :: 15CS81 \t\t\t\t\t Credits :: 04 \nIA Marks :: 20 \t\t\t\t\t\t\t\tExam Marks :: 80</item>
+        <item>This course will enable students to \n• Assess the genesis and impact of IoT applications, architectures in real world.\n• Illustrate diverse methods of deploying smart objects and connect them to network.\n• Compare different Application protocols for IoT.\n• Infer the role of Data Analytics and Security in IoT.\n• Identifysensor technologies for sensing real world entities and understand the role of IoT in various domains of Industry.</item>
+        <item>What is IoT, Genesis of IoT, IoT and Digitization, IoT Impact, Convergence of IT and IoT,  IoT  Challenges,  IoT  Network  Architecture  and  Design,  Drivers  Behind  New  Network Architectures, Comparing IoT Architectures, A Simplified IoT Architecture,  The Core IoT Functional Stack, IoT Data Management and Compute Stack.\n\nTeaching Hours  :: 10 Hours </item>
+        <item>Smart Objects: The “Things” in IoT, Sensors, Actuat ors, and Smart Objects, Sensor Networks,   Connecting   Smart   Objects,   Communications   Criteria,   IoT   Access  Technologies.\n\nTeaching Hours  :: 10 Hours </item>
+        <item>IP as the IoT Network Layer, The Business Case for IP, The need for Optimization, Optimizing IP for IoT, Profiles and Compliances, Application Protocols for IoT, The  Transport Layer, IoT Application Transport Methods. \n\nTeaching Hours  :: 10 Hours </item>
+        <item>Data  and  Analytics  for  IoT,  An  Introduction  to  Data  Analytics  for  IoT,  Machine Learning,  Big  Data  Analytics  Tools  and  Technology,  Edge  Streaming  Analytics,  Network Analytics, Securing IoT, A Brief History of OT Security, Common Challenges  in OT Security, How IT and OT Security Practices and Systems Vary, Formal Risk  Analysis Structures: OCTAVE and FAIR, The Phased Application of Security in an  Operational Environment\n\nTeaching Hours  :: 10 Hours </item>
+        <item>IoT Physical Devices and Endpoints - Arduino UNO:  Introduction to Arduino, Arduino UNO, Installing the Software, Fundamentals of Arduino Programming. IoT  Physical Devices and Endpoints - RaspberryPi: Introduction to RaspberryPi, About the  RaspberryPi Board: Hardware Layout, Operating Systems on RaspberryPi, Configuring  RaspberryPi, Programming RaspberryPi with Python, Wireless Temperature Monitoring  System Using Pi, DS18B20 Temperature Sensor, Connecting Raspberry Pi via SSH,  Accessing Temperature from DS18B20 sensors, Remote access to RaspberryPi, Smart  and Connected Cities, An IoT Strategy for Smarter Cities, Smart City IoT Architecture, Smart City Security Architecture, Smart City Use-Case Examples.\n\nTeaching Hours  :: 10 Hours </item>
+        <item>After studying this course, students will be able to\n• Interpret the impact and challenges posed by IoT networks leading to new architectural models.\n• Compare and contrast the deployment of smart objects and the technologies to connect them to network.\n• Appraise the role of IoT protocols for efficient network communication.\n• Elaborate the need for Data Analytics and Security in IoT.\n• Illustrate different sensor technologies for sensing real world entities and identify the applications of IoT in Industry.</item>
+        <item>•The question paper will have ten questions.\n•There will be 2 questions from each module.\n•Each question will have questions covering all the topics under a module.\n•The students will have to answer 5 full questions, selecting one full question from each module.</item>
+        <item>1) David Hanes, Gonzalo Salgueiro, Patrick Grossetete, Robert Barton, Jerome  Henry,"IoT  Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things”, 1 st Edition, Pearson Education (Cisco Press Indian Reprint). (ISBN: 9789386873743)\n 2) Srinivasa K G, “Internet of Things”, CENGAGE Leaning India, 2017</item>
+        <item>1) Vijay Madisetti and ArshdeepBahga, “Internet of Things (A Hands on Approach)”, 1 st Edition, VPT, 2014. (ISBN: 978 8173719547)\n 2) Raj  Kamal,  “Internet  of  Things:  Architecture  and  Design  Principles”,  1 st   Edition,  McGraw Hill Education, 2017. (ISBN: 978 9352605224)</item>
+    </string-array>
+
+    <string-array name="big">
+        <item>\t\t\t\t\t\tBIG DATA ANALYTICS\t\t\t\n[Choice Based Credit System (CBCS) scheme]\n\nSubject Code :: 15CS82\t\t\t\t\t\t Credits :: 04\nIA Marks :: 20\t\t\t\t\t\t\t\tExam Marks :: 80 </item>
+        <item> This course will enable students to\n• Understand Hadoop Distributed File system and examine MapReduce Programming\n• Explore Hadoop tools and manage Hadoop with Ambari\n• Appraise the role of Business intelligence and its applications across industries\n• Assess core data mining techniques for data analytics\n• Identify various Text Mining techniques</item>
+        <item>Hadoop  Distributed  File  System  Basics,  Running  Example  Programs  and Benchmarks, Hadoop MapReduce Framework, MapReduce Programming.\n\nTeaching Hours  :: 10 Hours </item>
+        <item>Essential Hadoop Tools, Hadoop YARN Applications, Managing Hadoop with Apache Ambari, Basic Hadoop Administration Procedures.\n\nTeaching Hours  :: 10 Hours </item>
+        <item>Business  Intelligence  Concepts  and  Application,  Data  Warehousing,  Data Mining, Data Visualization.\n\nTeaching Hours  :: 10 Hours </item>
+        <item>Decision  Trees,  Regression,  Artificial  Neural  Networks,  Cluster  Analysis, Association Rule Mining.\n\nTeaching Hours  :: 10 Hours  </item>
+        <item>Text Mining, Naïve-Bayes Analysis, Support Vector Machines, Web Mining, Social Network Analysis.\n\nTeaching Hours  :: 10 Hours </item>
+        <item> The students should be able to\n• Master the concepts of HDFS and MapReduce framework\n• Investigate Hadoop related tools for Big Data Analytics and perform basic Hadoop Administration\n• Recognize the role of Business Intelligence, Data warehousing and Visualization in decision making\n• Infer the importance of core data mining techniques for data analytics\n• Compare and contrast different Text Mining Techniques </item>
+        <item>•The question paper will have ten questions.\n•There will be 2 questions from each module.\n•Each question will have questions covering all the topics under a module.\n•The students will have to answer 5 full questions, selecting one full question from each module.</item>
+        <item>1) Douglas Eadline, Hadoop 2 Quick-Start Guide: Learn the Essentials of Big Data Computing in the Apache Hadoop 2 Ecosystem", 1 st Edition, Pearson Education, 2016. ISBN 13: 978 9332570351\n 2) Anil Maheshwari,  Data Analytics , 1st Edition, McGraw Hill Education, 2017. ISBN 13: 978 9352604180</item>
+        <item>1) Tom  White, Hadoop: The Definitive  Guide, 4th Edition,  O Reilly  Media, 2015.ISBN 13: 978 9352130672\n 2) Boris Lublinsky, Kevin T.Smith, Alexey Yakubovich, Professional Hadoop Solutions , 1 st Edition, Wrox Press, 2014ISBN 13: 978 8126551071 \n3) Eric Sammer, Hadoop Operations:A Guide for Developers and Administrators ,1 st Edition, O Reilly Media, 2012.ISBN 13: 978 9350239261</item>
+    </string-array>
+
+    <string-array name="uid">
+        <item>\t\t\t\t\t\tUSER INTERFACE DESIGN\t\t\t\n[Choice Based Credit System (CBCS) scheme]\n\nSubject Code :: 15CS832\t\t\t\t\tCredits :: 03\nIA Marks :: 20\t\t\t\t\t\t\t\tExam Marks :: 80 </item>
+        <item> This course will enable students\n• To study the concept of menus, windows, interfaces.\n• To study about business functions.\n• To study the characteristics and components of windows and the various controls for  the windows.\n• To study about various problems in window design with text, graphics.\n• To study the testing methods. </item>
+        <item>The User Interface-Introduction, Overview, The importance of user interface – Defining the user interface, The importance of Good design, Characteristics of graphical and web user interfaces, Principles of user interface design.\n\nTeaching Hours  :: 08 Hours</item>
+        <item>The User Interface Design process- Obstacles, Usability, Human characteristics in Design, Human Interaction speeds, Business functionsBusiness definition and requirement analysis, Basic business functions, Design standards.\n\nTeaching Hours  :: 08 Hours</item>
+        <item>System menus and navigation schemes- Structures of menus, Functions of menus, Contents of menus, Formatting of menus, Phrasing the menu, Selecting menu choices, Navigating menus, Kinds of graphical menus. \n\nTeaching Hours  :: 08 Hours</item>
+        <item>Windows - Characteristics, Components of window, Window presentation styles, Types of window, Window management, Organizing window functions, Window operations, Web systems, Characteristics of device based controls.\n\nTeaching Hours  :: 08 Hours</item>
+        <item>Screen based controls- Operable control, Text control, Selection control, Custom control, Presentation control, Windows Tests-prototypes, kinds of tests. \n\nTeaching Hours  :: 08 Hours</item>
+        <item> The Students should be able to\n• Design the User Interface, design, menu creation ,windows creation and connection between menus and windows.\n\nTeaching Hours  :: 08 Hours</item>
+        <item>•The question paper will have ten questions.\n•There will be 2 questions from each module.\n•Each question will have questions covering all the topics under a module.\n•The students will have to answer 5 full questions, selecting one full question from each module.</item>
+        <item>1) Wilbert O. Galitz, “The Essential Guide to User Interface Design”, John Wiley And Sons, Second Edition 2002. </item>
+        <item>1) Ben Sheiderman, “Design the User Interface”, Pearson Education, 1998.\n 2) Alan Cooper, ”The Essential of User Interface Design”, Wiley- Dream Tech Ltd.,2002</item>
+    </string-array>
+
+
+    <string-array name="internship">
+        <item>\t\tINTERNSHIP / PROFESSIONAL PRACTICE\t\t\n[Choice Based Credit System (CBCS) scheme]\n\nSubject Code :: 15CS84\t\t\t\t\t\tCredits :: 02\nIA Marks :: 50\t\t\t\t\t\t\t\tExam Marks :: 50 </item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>1)As per the 15OB.9 the Internship Programme duration is of Eight weets.However it has been reduced to Four weeks and it should be carried out between (VI and VII Semester) Vacation and /or (VII and VIII Semester) Vacation.\n
+			  2)The internship can be carried out in any Industry/R and D Organization/ Research Institute/ Educational institute of repute.\n
+              3)The internship may also suggest the students to enrol for the Internshala platform for free internships as there is a MoU with the AICTE for the beneficial of the affiliated Institutions(https://internshala.com/)\n
+			  4)The Examination of internship will be carried out in line with the University Project Viva-voce examination.</item>
+        <item>5)(a)The Department/College shall nominate staff member/s to facilitate, guide and supervise students under internship.\n
+		        (b)The Internal Guide has to visit place of internship at least once during the students internship.\n
+              6)The Students shall report the progress of the internship to the internship to the guide in regular internal and seek his/her advice.\n</item>
+        <item>7)After the completion od internship, students shall submit a report with the completion and attendance certificates to the Head of the Department with the approval of both internal and external guides.\n
+		      8)The Examination of Internship will be carried out in line with the University Project Viva-voca examination.\n
+			  9)There will be 50 marks for CIE (Seminar:25, Internship report:25) and 50 Marks for Viva - Voca conducted during SEE. The minimum requrement of CIE marks shall be 50% of the maximum marks.</item>
+	    <item>10)The internal guide shall award the marks for seminar and internship report after evaluation. He/she will also be the internal examiner for Viva - Voce conducted during SEE.\n
+			  11)The external guide from the industry shall be an examiner for the viva voce on Internship. Viva - Voce on internship shall be conducted at the college and the date of Viva - Voce shall be fixed in consultation with the external Guide. The Examiners shall jointly award the Viva - Voce marks.</item>
+        <item>12)In case the external Guide expresses his inability to conduct viva voce, the Chief Superintendent of the institution shall appoint a senior faculty of the Department to conduct viva-voce along with the internal guide. The same shall be informed in writing ti the concerned Chairperson, Board of Examiners (BOE).\n
+			  13)The students are permitted to carry out the internship anywhere in india or abroad. The University will not provide any kind of financial assistance to any student for carring out the internship.</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        
+    </string-array>
+
+    <string-array name="project">
+        <item>\t\t\t\t\tPROJECT WORK PHASE II\t\t\t\n[Choice Based Credit System (CBCS) scheme]\n\nSubject Code :: 15CP85\t\t\t\t\t\tCredits :: 05\nIA Marks :: 100\t\t\t\t\t\t\tExam Marks :: 100 </item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>GUIDELINES FOR THE PREPARATION OF 8th Sem B.E./B. Tech. PROJECT REPORTS\n
+              1.Project reports should be typed neatly only on one side of the paper with 1.5 or double line spacing on a A4 size bond paper (210 x 297 mm). The margins should be: Left - 1.25", Right - 1", Top and Bottom - 0.75".\n
+			  2.The total number of reports to be prepared are\n
+				•One copy to the department\n
+				•One copy to the concerned guide(s)\n
+				•Two copies to the sponsoring agency\n
+				•One copy to the candidate.</item>
+        <item>3.Before taking the final printout, the approval of the concerned guide(s) is mandatory and suggested corrections, if any, must be incorporated.\n
+			  4.For making copies dry tone Xerox is suggested.\n
+			  5.Every copy of the report must contain\n
+				•Inner title page (White)\n
+				•Outer title page with a plastic cover\n 
+				•Certificate in the format enclosed both from the college and the organization where the project is carried out.\n
+				•An abstract (synopsis) not exceeding 100 words, indicating salient features of the work. (NB: four copies of the abstract are to be submitted to the Department on the date of submission separately)\n </item>
+        <item>6.The organization of the report should be as follows\n
+				•The chapter must be left or right justified (font size 16).  Followed by the title of chapter centered (font size 18), section/subsection numbers along with their headings must be
+				 left justified with section number and its heading in font size 16 and subsection and its heading in font size 14. The body or the text of the report
+				should have font size 12. </item>
+        <item>•The last chapter should contain the summary of the work carried, contributions if any, their utility along with the scope for further work.\n
+			  •Reference OR Bibliography:\n
+				•The references should be numbered serially in the order of their occurrence in the text and their numbers should be indicated within square brackets for e.g. [3].  The section on references should list them in serial order in the following format. 
+				•For textbooks - A.V. Oppenheim and R.W. Schafer, Digital Signal Processing, Englewood, N.J., Prentice Hall, 3 Edition, 1975. </item>
+        <item>•For papers - Devid, Insulation design to combat pollution problem, Proc of IEEE, PAS, Vol 71, Aug 1981, pp 1901-1907.\n
+                •The project report should be brief and include descriptions of work carried out by others only to the minimum extent necessary.  Verbatim reproduction of material available elsewhere should be strictly avoided.  Where short excerpts from published work are desired to be included, they should be within quotation marks appropriately referenced.\n
+                •Sponsored Projects must also satisfy the above requirements along with statement of accounts, bills for the same dully attested by the concerned guides to process further, They must also produce NOC from the concerned guide before taking the internal viva examination. \n
+                •The reports submitted to the department/guide(s) must be hard bounded, with a plastic covering. </item>
+        <item>1)Identify a issue and derive problem related to society,environment,economics,energy and technology.\n
+			  2)Formulate and Analyze the problem and detemine the scope of the solution chosen.\n
+			  3)Determine dissect, and estimate the parameters, required in the solution.
+			  4)Evaluate the Solution by considering the standard data/Objective function and by using appropriate perfoemance metrics.\n
+			  5)Compile the report and take in present/publishing the finding in a reputed conference/publications\n
+			  6)Attempt to obtain ownership of the solution / product developed.</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>--VTU has not prescribed above of the following--</item>
+    </string-array>
+
+    <string-array name="seminar">
+        <item>\t\t\t\t\t\t\t\t\t\tSEMINAR\t\t\t\t\t\n[Choice Based Credit System (CBCS) scheme]\n\nSubject Code :: 15CSS86 \t\t\t\t\tCredits :: 02\nIA Marks :: 100\t\t\t\t\t\t\t\tExam Marks : ---- </item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>Seminar:Deliverable at the Institution under the supervision of a Faculty.</item>
+        <item>Seminar in one of the head of passing.\n
+			  i)Each candidate shall deliver seminar as per the Scheme of Teching and Examination on the topics chosen from the relevant fields for about 30 minutes.\n
+			  ii)The Head of the Department shall make arrangements for conducting seminars through concerned faculty members of the Department shall award the CIE marks for the seminar. The committee shall consist of the seminar most acting as the Chairman/Chairperson.[To be read along with 17 OB 8.6]</item>
+        <item>•For Technical seminar, the CIE marks shall be 100.\n
+			  •The CIE marks in the case of projects and seminars in the final year shall be based on the evaluation at the end of VIII semester by a committee consisting of the Head of the concerned Department and two senior faculty members of the Department, one of whom shall be the project/seminar guide.</item>
+        <item>•For seminar, the minimum requiment of CIE marks shall be 40% of the maximum marks.\n
+			  •Improvement of CIE marks shall not be allowed in Seminar where the student has already secured the minimum required marks.</item>
+        <item>•Seminar topics must submit be from recent advancements in the domain.\n
+			  •Each candidate must submit three copies of the report to the department.One for the candidate, one for the guide and one for the department.</item>
+        <item>The Students should be able to:\n
+			  •Survey the changes in the technologies relevant to the topic selected\n
+			  •Discuss the technology and interpret the impact on the society, environment and domain.\n
+			  •Compile report of the Study and present to the audience, following the ethics.</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>--VTU has not prescribed above of the following--</item>
+        <item>--VTU has not prescribed above of the following--</item>
+    </string-array>
+
+
+</resources>
